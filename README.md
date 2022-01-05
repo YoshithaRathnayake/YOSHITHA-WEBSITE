@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><b><i>WELCOME!, TO MY OFFICIAL WEB SITE</i></b></a></div>
 
-# [![All Contributors](https://img.shields.io/badge/All_Contributors-13-lawngreen.svg?style=flat-square)](#contributors-)
+# [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
 Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https://yoshitharathnayake.w3spaces.com/Index.html)</i></b>
 
