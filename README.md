@@ -9,6 +9,14 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https
 #
 # Run Locally
 
+### Installing Ruby and Jekyll
+
+- Install Ruby and Jekyll
+1. [macOS](https://jekyllrb.com/docs/installation/macos/) 
+1. [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/) 
+1. [Windows](https://jekyllrb.com/docs/installation/windows/).
+1. [Other Linux](https://jekyllrb.com/docs/installation/other-linux/).
+
 - Clone your forked repository
     
     ```
@@ -20,13 +28,18 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https
     ```
     npm install 
     ```
+    ```
+    bundle install
+    ```
     
     
 - Start the server with 
     ```
     npm start
     ```
-
+    ```
+    bundle exec jekyll serve
+    ``` 
 
 ## Contributors ✨
 
