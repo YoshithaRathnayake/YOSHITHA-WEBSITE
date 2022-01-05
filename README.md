@@ -21,7 +21,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><img src="" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/acf-sack/sack-site/commits?author=kumuditha-udayanga" title="Code">💻</a></td>
+    <td align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><img src="" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/acf-sack/sack-site/commits?author=Yoshitha-SACK" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -30,4 +30,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [All Contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
