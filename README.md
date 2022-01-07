@@ -28,18 +28,11 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https
     ```
     npm install 
     ```
-    ```
-    bundle install
-    ```
-    
-    
+     
 - Start the server with 
     ```
     npm start
     ```
-    ```
-    bundle exec jekyll serve
-    ``` 
 
 ## Contributors ✨
 
