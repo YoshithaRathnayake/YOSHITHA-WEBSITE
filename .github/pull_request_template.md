@@ -12,7 +12,7 @@ The purpose of this PR is to fix #<issue-number>
 <!---  Include an animated GIF or screenshot if the change affects the UI.  -->
   
 ### Preview Link
-<!---  Go to the Settings > Pages in your forked repository and select the correct branch and select the root. After that click the Save button and paste it in here. -->
+<!---  Go to the Settings > Pages in your forked repository and select the correct branch and select the root folder. After that click the Save button and paste it in here. -->
 
 ##  Checklist
 - [x] This PR doesn't commit any keys, passwords, tokens, usernames, or other secrets.
