@@ -12,7 +12,7 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https
 - Clone your forked repository
     
     ```
-    git clone https://github.com/Yoshitha-SACK/Yoshitha-Site.git
+    git clone https://github.com/USERNAME/Yoshitha-Site.git
     cd Yoshitha-Site
     ```
      
