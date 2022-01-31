@@ -14,6 +14,8 @@
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
 Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https://yoshitharathnayake.w3spaces.com/Index.html)</i></b>
+                <b><i>[https://yoshitharathnayake.github.io/Yoshitha-Site](https://yoshitharathnayake.github.io/Yoshitha-Site)</i></b>
+
 
 #
 # Run Locally
