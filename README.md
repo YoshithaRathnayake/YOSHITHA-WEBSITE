@@ -1,9 +1,15 @@
 # <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><b><i>WELCOME!, TO MY OFFICIAL WEB SITE</i></b></a></div> 
 
+
+# <div align="center"><img src="Images/Yoshitha Rathnayake 2.png" width="300px"></div>
+
 #
 > This is My Official Web Site
 
-# <div align="center"><img src="Images/Yoshitha Rathnayake 2.png" width="300px"></div>
+> Used Programming Languages (HTML, CSS, JavaScript, Bootstrap) 
+
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
+    
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
