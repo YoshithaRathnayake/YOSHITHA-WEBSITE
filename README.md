@@ -15,7 +15,7 @@
 
 Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Index.html](https://yoshitharathnayake.w3spaces.com/Index.html)</i></b>
 
-                <b><i>[https://yoshitharathnayake.github.io/Yoshitha-Site](https://yoshitharathnayake.github.io/Yoshitha-Site)</i></b>
+<b><i>[https://yoshitharathnayake.github.io/Yoshitha-Site](https://yoshitharathnayake.github.io/Yoshitha-Site)</i></b>
 
 
 #
