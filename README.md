@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://www.YoshithaRathnayake.tk"><b><i>WELCOME!, TO MY OFFICIAL WEB SITE</i></b></a></div> 
+# <div align="center"><a href="https://www.Yoshitha.tk"><b><i>WELCOME!, TO MY OFFICIAL WEB SITE</i></b></a></div> 
 
 
 # <div align="center"><img src="images/Yoshitha Rathnayake 2.png" width="300px"></div>
@@ -13,7 +13,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[www.YoshithaRathnayake.tk](https://www.YoshithaRathnayake.tk)</i></b>
+Available at :  <b><i>[www.Yoshitha.tk](https://www.Yoshitha.tk)</i></b>
 
 
 #
