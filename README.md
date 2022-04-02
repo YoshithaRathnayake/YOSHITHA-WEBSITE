@@ -22,7 +22,7 @@ Available at :  <b><i>[www.Yoshitha.tk](https://www.Yoshitha.tk)</i></b>
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/Yoshitha-Site.git
+    git clone https://github.com/USERNAME/YOSHITHA-WEBSITE.git
     cd Yoshitha-Site
     ```
      
