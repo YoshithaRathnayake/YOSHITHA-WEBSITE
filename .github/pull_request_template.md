@@ -13,6 +13,7 @@ The purpose of this Pull Request is to fix #<issue-number>
   
 ### Preview Link
 <!---  Go to the Settings > Pages in your forked repository and select the correct branch and select the root folder. After that click the Save button and paste it in here. -->
+https://pr-{PR_NUMBER}-YOSHITHA-WEBSITE.surge.sh
 
 ##  Checklist
 - [x] This PR doesn't commit any keys, passwords, tokens, usernames, or other secrets.
