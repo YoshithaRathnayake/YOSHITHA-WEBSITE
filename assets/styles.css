@@ -94,7 +94,7 @@
                                         text-align: center;
                                         color: #34FF00;
                                         animation: rainbow 5s infinite;
-                                        margin: 50px;
+                                        margin-bottom: 0px;
                                     }
                                     
                                     @keyframes rainbow {
@@ -558,7 +558,7 @@
                                             border-radius: 50%;
                                             height: 300px;
                                             width: 300px;
-                                            margin: 50px;
+                                            margin-bottom: 50px;
                                             box-shadow: 0 0 50px black;
                                             cursor: pointer;
                                             transition: 0.3s;
@@ -625,7 +625,7 @@
                                             border-radius: 50%;
                                             height: 200px;
                                             width: 200px;
-                                            margin: 25px;
+                                            margin-bottom: 25px;
                                             cursor: pointer;
                                             transition: 0.3s;
                                             box-shadow: 0 0 50px black;
